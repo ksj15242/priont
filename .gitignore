@@ -32,3 +32,19 @@ google-services.json
 
 # Android Profiling
 *.hprof
+
+# Temp
+**/__pycache__/
+**/.env
+**/venv/
+*.db
+*.sqlite
+
+**/build/
+**/.gradle/
+**/local.properties
+**/.idea/
+**/*.iml
+
+android/app/google-services.json
+android/app/src/main/java/**/DataConstants.kt

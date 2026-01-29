@@ -1,0 +1,31 @@
+<resources>
+    // app
+    <string name="app_name">Priont</string>
+    <string name="app_loading_msg">데이터를 가져오는 중이에요...</string>
+
+    // dialog
+    <string name="dialog_error_title">데이터 로딩 실패</string>
+    <string name="dialog_error_retry">재시도</string>
+    <string name="dialog_error_exit">앱 종료</string>
+
+    // common
+    <string name="common_product_title">%1$s (%2$s)</string>
+    <string name="common_product_price_change_rate">%1$s%%</string>
+    <string name="common_product_price_empty">- 원</string>
+
+    // home_screen
+    <string name="home_header_msg">다양한 농수산물 소매 가격을\n지역별로 확인해보세요!</string>
+    <string name="home_searchbar_hint">품목을 검색해보세요!</string>
+    <string name="home_footer_msg">품목별 가격 정보는 한국농수산식품유통공사(aT)의 농수산물 유통정보(Kamis)로부터 제공받는 정보로 지연될 수 있으며 공휴일을 제외한 평일에 갱신됩니다.</string>
+
+    // search_screen
+    <string name="search_searchbar_hint">상품을 검색하세요</string>
+    <string name="search_result_empty">입력하신 검색어 \'%1$s\'와 일치하는 품목이 없어요.</string>
+
+    // category_screen
+    <string name="category_empty_msg">%1$s에 해당하는 품목이 없어요.</string>
+
+    // product_screen
+    <string name="product_column_chart_header">지역별 가격 비교하기</string>
+    <string name="product_line_chart_empty">오늘 가격 정보가 제공되지 않았어요</string>
+</resources>

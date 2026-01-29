@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.Priont" parent="android:Theme.Material.Light.NoActionBar" />
+
+    <style name="Theme.Priont.Splash" parent="Theme.SplashScreen">
+        <item name="windowSplashScreenBackground">@color/primary</item>
+        <item name="windowSplashScreenAnimatedIcon">@drawable/priont</item>
+        <item name="postSplashScreenTheme">@style/Theme.Priont</item>
+    </style>
+</resources>
